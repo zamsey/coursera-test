@@ -1,0 +1,46 @@
+body {
+	background-color: #d3f29c;
+}
+
+#header-nav {
+	background-color: #93ff95;
+	border-radius: 0;
+	border: 2px solid black;
+	border-right: none;
+	border-left: none; 
+}
+
+.navbar-brand {
+	width: 200px;
+	height: 100px;
+}
+
+h1, h2, h3 {
+	color: black;
+}
+
+
+#chicken {
+	background-color: #93ff95;
+	padding: 1px 20px 1px 20px;
+	margin-top: 40px;
+}
+
+#nav-list {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+#nav-list a {
+  color: black;
+  font-size: 1.2em;
+  border: 2px solid black;
+  border-right: none;
+  border-left: none; 
+  border-bottom: none;
+  background-color: #d3f29c;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
